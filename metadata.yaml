@@ -1,0 +1,31 @@
+_repo: Utopia-Never_72389
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Disch, Thomas M.
+    aliases:
+    - Disch, Thomas Michael
+    - Disch, Tom
+    birthdate: 1940
+    deathdate: 2008
+    gutenberg_agent_id: '34889'
+    url: http://www.gutenberg.org/2009/agents/34889
+description: ''
+gutenberg_issued: '2023-12-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72389'
+language: en
+pgterms:marc905: 20231125093201disch
+pgterms:marc906: '1963'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aNew York, NY :$bZiff-Davis Publishing Company, $c1963.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Utopia? Never!
+url: http://www.gutenberg.org/ebooks/72389
